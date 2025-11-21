@@ -3,8 +3,6 @@
 ### A passionate frontend developer from Iran
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Roya-Nasiri" alt="Roya-Nasiri" /></a> </p>
-
 - 🌱 I'm currently learning **JavaScript, CSS, CSS3, Html**
 
 <h3 align="left">Connect with me:</h3>
