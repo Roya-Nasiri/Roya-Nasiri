@@ -18,6 +18,11 @@
   <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a></p>
 
+## 🚀 Featured Projects
+
+- [tailwind](https://roya-nasiri.github.io/persian-project-tailwind/)
+- [bootstrap](https://roya-nasiri.github.io/first-bootstrap/)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Roya-Nasiri&show_icons=true&locale=en&layout=compact" alt="Roya-Nasiri" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Roya-Nasiri&show_icons=true&locale=en" alt="Roya-Nasiri" /></p>
