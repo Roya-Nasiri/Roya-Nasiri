@@ -3,7 +3,7 @@
 ### Frontend developer passionate about building responsive and user-friendly web interfaces
 
 
-- 🌱 I'm currently learning **JavaScript, CSS, CSS3, Html**
+- 🌱 Currently improving my frontend skills with JavaScript, HTML, and CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
