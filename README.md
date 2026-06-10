@@ -40,7 +40,7 @@
 
 ## 🚀 Featured Projects
 
-- [Tailwind Project](https://roya-nasiri.github.io/persian-project-tailwind/)
+- [https://roya-nasiri.github.io/Persian-Project-Tailwind/]
 - [Bootstrap Project](https://roya-nasiri.github.io/first-bootstrap/)
 
 <p>
